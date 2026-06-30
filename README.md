@@ -114,8 +114,8 @@ This is the **Phase 2 Capstone** (Day 16) of my public AI Engineer roadmap.
 |-------|-------|--------|
 | Phase 1 | Deep Learning Foundations | ✅ Complete |
 | **Phase 2** | **HuggingFace & Transformers** | **✅ Complete** |
-| Phase 3 | LLMs & RAG | 🔄 In Progress |
-| Phase 4 | Deploy & Ship | ⏳ Upcoming |
+| Phase 3 | LLMs & RAG | ✅ Complete |
+| Phase 4 | Deploy & Ship | ✅ Complete |
 
 📌 Full roadmap: [github.com/faisalimam1/DL-Learning-Roadmap](https://github.com/faisalimam1/DL-Learning-Roadmap)
 
